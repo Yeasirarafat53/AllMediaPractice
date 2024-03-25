@@ -10,9 +10,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "@notifee/react-native": "^7.8.2",
     "@react-native-community/slider": "^4.5.0",
+    "@react-native-firebase/app": "^19.1.0",
+    "@react-native-firebase/messaging": "^19.1.0",
     "react": "18.2.0",
     "react-native": "0.73.6",
+    "react-native-background-actions": "^3.0.1",
     "react-native-blob-util": "^0.19.8",
     "react-native-media-console": "^2.2.0",
     "react-native-media-controls": "^2.3.0",

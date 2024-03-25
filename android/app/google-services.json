@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45213731452",
+    "project_id": "notification-d01b0",
+    "storage_bucket": "notification-d01b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45213731452:android:464374ad803fba256597f9",
+        "android_client_info": {
+          "package_name": "com.allmediapractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWXgRGMOMZOUKyZtOkv4mWyNlZ2oIsNy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
